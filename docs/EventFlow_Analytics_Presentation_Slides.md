@@ -355,9 +355,9 @@ Infrastructure:
 ## Thank You for Your Attention!
 
 ### 📧 **Contact Information:**
-- **Venkat Dinesh Pasupuleti**: vpassupuleti@student.college.ca
-- **Shalini Sirdhala**: ssirdhala@student.college.ca  
-- **Lokeshwar Reddy Tippani**: ltippani@student.college.ca
+- **Venkat Dinesh Pasupuleti**: venkatdinesh60@gmail.com
+- **Shalini Sirdhala**: shalini.sirdhala@college.edu  
+- **Lokeshwar Reddy Tippani**: lokeshwar6984@gmail.com
 
 ### 🔗 **Project Resources:**
 - **GitHub Repository**: https://github.com/Venkatdinesh20/eventflow-analytics_attendance-tracker

@@ -241,9 +241,22 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [API Documentation](docs/api-docs.md)
 
 ### Contact Information
-- **Project Manager**: venkatdinesh60@gmail.com
-- **Technical Lead**: shalini.sirdhala@college.edu
+
+#### Team Members
+- **Venkat Dinesh Pasupuleti** - Project Manager & Technical Lead
+  - Email: venkatdinesh60@gmail.com
+  - GitHub: @Venkatdinesh20
+  
+- **Shalini Sirdhala** - Development Lead & UI/UX Designer
+  - Email: shalini.sirdhala@college.edu
+  
+- **Lokeshwar Reddy Tippani** - Business Analyst & Quality Assurance
+  - Email: lokeshwar6984@gmail.com
+
+#### Project Support
 - **Repository Issues**: [GitHub Issues](https://github.com/Venkatdinesh20/eventflow-analytics_attendance-tracker/issues)
+- **Documentation**: Available in `/docs` folder
+- **Technical Support**: Contact project team via GitHub issues
 
 ## Acknowledgments
 

@@ -7,7 +7,7 @@
 ## INDIVIDUAL CONTRIBUTION: VENKAT DINESH PASUPULETI
 
 ### 📋 **Role**: Project Manager & Technical Lead
-### 📧 **Email**: vpassupuleti@student.college.ca
+### 📧 **Email**: venkatdinesh60@gmail.com
 ### 📅 **Report Period**: October 15, 2025 - November 23, 2025
 
 ---
@@ -329,7 +329,7 @@ I am available for additional questions, clarifications, or deeper discussion ab
 - **Mentoring**: Support for students tackling similar technical challenges
 
 **Contact Information:**
-- **Email**: vpassupuleti@student.college.ca
+- **Email**: venkatdinesh60@gmail.com
 - **GitHub**: @Venkatdinesh20
 - **LinkedIn**: [Professional Profile]
 - **Available**: Monday-Friday, 9 AM - 6 PM EST
