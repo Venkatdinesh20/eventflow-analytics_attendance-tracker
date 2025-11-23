@@ -97,7 +97,7 @@ eventflow-analytics_attendance-tracker/
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/eventflow-analytics_attendance-tracker.git
+   git clone https://github.com/Venkatdinesh20/eventflow-analytics_attendance-tracker.git
    cd eventflow-analytics_attendance-tracker
    ```
 
@@ -241,9 +241,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [API Documentation](docs/api-docs.md)
 
 ### Contact Information
-- **Project Manager**: venkat.pasupuleti@college.edu
+- **Project Manager**: venkatdinesh60@gmail.com
 - **Technical Lead**: shalini.sirdhala@college.edu
-- **Repository Issues**: [GitHub Issues](https://github.com/your-username/eventflow-analytics_attendance-tracker/issues)
+- **Repository Issues**: [GitHub Issues](https://github.com/Venkatdinesh20/eventflow-analytics_attendance-tracker/issues)
 
 ## Acknowledgments
 
