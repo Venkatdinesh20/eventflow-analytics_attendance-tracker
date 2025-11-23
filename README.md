@@ -248,7 +248,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   - GitHub: @Venkatdinesh20
   
 - **Shalini Sirdhala** - Development Lead & UI/UX Designer
-  - Email: shalini.sirdhala@college.edu
+  - Email: SS2428@myscc.ca
   
 - **Lokeshwar Reddy Tippani** - Business Analyst & Quality Assurance
   - Email: lokeshwar6984@gmail.com

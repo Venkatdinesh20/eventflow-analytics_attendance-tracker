@@ -356,7 +356,7 @@ Infrastructure:
 
 ### 📧 **Contact Information:**
 - **Venkat Dinesh Pasupuleti**: venkatdinesh60@gmail.com
-- **Shalini Sirdhala**: shalini.sirdhala@college.edu  
+- **Shalini Sirdhala**: SS2428@myscc.ca  
 - **Lokeshwar Reddy Tippani**: lokeshwar6984@gmail.com
 
 ### 🔗 **Project Resources:**

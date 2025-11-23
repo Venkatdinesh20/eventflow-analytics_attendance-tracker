@@ -17,7 +17,7 @@
 
 | **PROJECT NAME** | **PROJECT TEAM** | **Team Name** |
 |------------------|------------------|---------------|
-| Digital Attendance & Participation Tracker for College Events | **Venkat Dinesh Pasupuleti** - Project Manager & Technical Lead<br>*Email: venkatdinesh60@gmail.com*<br><br>**Shalini Sirdhala** - Development Lead & UI/UX Designer<br>*Email: shalini.sirdhala@college.edu*<br><br>**Lokeshwar Reddy Tippani** - Business Analyst & Quality Assurance<br>*Email: ltippani@student.college.ca* | EventFlow Analytics |
+| Digital Attendance & Participation Tracker for College Events | **Venkat Dinesh Pasupuleti** - Project Manager & Technical Lead<br>*Email: venkatdinesh60@gmail.com*<br><br>**Shalini Sirdhala** - Development Lead & UI/UX Designer<br>*Email: SS2428@myscc.ca*<br><br>**Lokeshwar Reddy Tippani** - Business Analyst & Quality Assurance<br>*Email: ltippani@student.college.ca* | EventFlow Analytics |
 
 ---
 
